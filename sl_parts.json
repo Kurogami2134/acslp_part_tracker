@@ -1,0 +1,1905 @@
+{
+    "HEADS": [
+        "void",
+        {
+            "NAME": "CHD-01-ATE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-MM/003",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-04-YIV",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-RE/005",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-RE/008",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-06-OVE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-02-TIE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-MM/004",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-SKYEYE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-SS/CRUST",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-MX/RACHIS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-07-VEN",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-MM/007",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-MX/BEE",
+            "UNLOCK": "SECURE FORTRESS NK-432: IN THE 2ND ROOM THERE IS A CEILING PANEL PANEL THAT CAN BE DESTROYED. THE BEE IS IN A BOX THERE. LOOK FOR AND DESTROY ANY OFF-COLOR PANELS TO OPEN A SECRET PASSAGE. THIS ALLOWS YOU TO BYPASS A USELESS PART OF THE LEVEL WITH MTS THAT AMBUSH YOU WITH GRENADE ROUNDS."
+        },
+        {
+            "NAME": "CHD-MISTEYE",
+            "UNLOCK": "SECURE UNEXPLORED REGION: DEFEAT 8+ ENEMIES WITHIN THE FIRST 1:40, THEN DEFEAT BOTH ACS."
+        },
+        {
+            "NAME": "CHD-09-OXI",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-RE/H10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-GLITCH",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CHD-9066",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-HH/ARSH",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MHD-72-50",
+            "UNLOCK": "BUY"
+        }
+    ],
+    "CORES": [
+        "void",
+        {
+            "NAME": "CCM-00-STO",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MCM-MX/002",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CCL-01-NER",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MCL-SS/ORCA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CCH-0V-IKS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MCH-MX/GRP",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MCL-SS/RAY",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MCM-MI/008",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CCH-04-EOC",
+            "UNLOCK": "ATTACK UNEXPLORED REGION: CLEAR THE 2ND SEGMENT WITHIN 2:00 AND WITH AT LEAST 50% AP."
+        },
+        {
+            "NAME": "CCL-02-E1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CCM-0V-AXE",
+            "UNLOCK": "DESTROY AI PROTOTYPE: DEFEAT THE 2ND AI AC."
+        },
+        {
+            "NAME": "MCH-MX/GROA",
+            "UNLOCK": "ACCOMPANY AIR TRANSPORTS: DESTROY 25+ ENEMIES AND CLEAR WITHIN 4:10."
+        },
+        "void",
+        "void"
+    ],
+    "ARMS": [
+        "void",
+        {
+            "NAME": "CAM-10-XB",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAM-11-SOL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAM-MX/REE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAM-SS/ALS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAM-01-MHL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAL-44-EAS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAL-GALE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAL-RE/REX",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAL-MARTE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAH-22-NIX",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAH-RE/GG",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAH-23-XB1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAH-SS/CASK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DMG-0204",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DS48-01",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAW-DHM68/04",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DVG36-01",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DBZ-48",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DC-03",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DHZ-36",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAW-DLC/POWER",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAW-DSL/FIN",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void",
+        {
+            "NAME": "MAL-RE/HADRO",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAL-33-ROD",
+            "UNLOCK": "ESCORT TRANSPORT: LESS THAN TWO CAPACITORS DESTROYED."
+        },
+        {
+            "NAME": "CAL-66-MACH",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAM-14-DUSK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAM-MX/MDD",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAM-RE/TIN",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAH-67-BOLD",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAH-SS/VV",
+            "UNLOCK": "QUALIFICATION EXAM: DESTROY 50+ TARGETS & DESTROY BOTH ACS."
+        },
+        {
+            "NAME": "KAW-SAMURAI2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAW-LIC/48",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAW-OC/BUD",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-SDBZ-108",
+            "UNLOCK": "DISTRACT SECURITY TEAM: CLEAR WITHIN 2:00. DESTROY AT LEAST 15 CARS (THE MORE THE BETTER)."
+        },
+        {
+            "NAME": "CAW-TITAN4",
+            "UNLOCK": "SECURE FORTRESS NK-432: DESTROY THE AC IN THE TARGET ROOM WITH YOUR CONSORT ALIVE."
+        },
+        {
+            "NAME": "CAW-SDC-05",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAL-303S",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CAW-DS604",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MAL-TEM",
+            "UNLOCK": "BUY"
+        }
+    ],
+    "LEGS": [
+        "void",
+        {
+            "NAME": "CLM-01-EDF",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLM-MM/ORDER",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLM-02-SNSK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLM-SS/ORC",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLM-MX/066",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLM-03-SRVT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLL-01-FKST",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLL-SS/1001",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLL-MX/EDGE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLL-HUESO",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLH-XV-MSGR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLH-STIFF",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLH-MX/VOLAR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLH-SS/RS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLB-44-AKS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLB-SS/FLUID",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLB-SOLID",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLB-33-NMU",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLB-MX/004",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLF-RE/005",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLF-MX/KNOT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLF-DS-SEV",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLF-D1-ILC",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLF-D2-ROG",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLC-03-MLKS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLC-SHUT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLC-RE/3003",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLC-TRIDENT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLC-D3TA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLR-RE/EGA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLR-MX/QUAIL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLR-SS/REM",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLR-MM/PETAL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLR-00-MAK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLL-MX/077",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLL-SECTOR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLL-03A-SRVT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLM-XA3/LW",
+            "UNLOCK": "ARCHIVE AMBUSH: CLEAR WITH AT LEAST 50% AP. YOU MUST DEFEAT THE AC."
+        },
+        {
+            "NAME": "MLM-SPINE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLM-55-RVE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLH-MM/LINK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLH-04-SOD",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLH-XV-MGHS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLB-SS/KRT",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "MLB-MX/008",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLB-55-HM220",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLF-D3-WIZ",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLF-RE/006",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLF-RE/007",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLC-D4ZTSL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLC-HARPOON",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLC-05-ACE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLR-01-SCUD",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLR-03-SEOLF",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLR-MX/LEAF",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLL-04-LGSK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLM-02-SNSKA1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLL-EM-070",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLR-ZMX",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLM-80-DR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLF-SS/CARM",
+            "UNLOCK": "BUY"
+        },
+        "void"
+    ],
+    "BOOSTER": [
+        "void",
+        {
+            "NAME": "CBT-00-UN1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CBT-01-UN4",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MBT-OX/002",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MBT-OX/E9",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CBT-FLEET",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MBT-NI/MARE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CBT-DRAKE",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void",
+        {
+            "NAME": "CBT-DRAKE-OX",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CBT-01-UN8",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MBT-NI/GULL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KBT-T000",
+            "UNLOCK": "BUY"
+        },
+        "void"
+    ],
+    "FCS": [
+        "void",
+        {
+            "NAME": "VREX-ST-2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "AOX-F/ST-6",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "VREX-ST-12",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "VREX-WS-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "AOX-X/WS-3",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "AOX-ANA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "VREX-ND-2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "VREX-F/ND-8",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "PLS-EMA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "PLS-ROA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "PLS-SRA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "PLS-SRA02",
+            "UNLOCK": "TAKEOVER NEW FORTRESS: OPENING IN THE MIDDLE OF THE CEILING, FLY UP AND LAND ON THE BEAM IN THE CENTER. THE PART IS LYING OIN THE CENTER OF THE BEAM."
+        },
+        "void",
+        "void"
+    ],
+    "GENERATOR": [
+        "void",
+        {
+            "NAME": "CGP-ROV6",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CGP-ROV10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MGP-VE8",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KGP-ZS4",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MGP-VE905",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CGP-ROZ",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KGP-ZSV",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KGP-ZXV1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MGP-VEXM",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void"
+    ],
+    "RADIATOR": [
+        "void",
+        {
+            "NAME": "RIX-CR10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RIX-CR11",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RMR-SA44",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RMR-SA77",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RIX-CR14",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RMR-ICICLE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RGI-KD99",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RGI-KDA01",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "RIX-CR5000",
+            "UNLOCK": "BUY"
+        },
+        "void"
+    ],
+    "INSIDE": [
+        "void",
+        {
+            "NAME": "CWI-BO-20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-FM-50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-FM-30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWI-MD/40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-NM-40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWI-RC/30",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void",
+        {
+            "NAME": "MWI-DD/10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWI-DD/20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWI-EM/15",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWI-EM/10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-DM-32",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWI-DM/30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWI-RC/60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-DD-30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWI-NM/70",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-FMHS-30",
+            "UNLOCK": "DESTROY CARGO TRANSPORT: AT THE FIRST INTERSECTION THERE IS A BARRICADE DOWN THE LEFT FORK. IT IS BEHIND THE MIDDLE SEGMENT. BE QUICK!"
+        },
+        {
+            "NAME": "CWI-BO-50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWI-EM/5",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWI-RJ/30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWI-RJ/60",
+            "UNLOCK": "ELIMINATE RIOTERS: OPEN THE 3RD FLOOR DOOR, IT'S INSIDE THE BOX STRAIGHT AHEAD."
+        },
+        {
+            "NAME": "CWI-GJ-20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWI-GJ-40",
+            "UNLOCK": "PROTECT POWER PLANT: DESTROY 30+ ENEMIES. CLEAR WITH AT LEAST 95% AP."
+        },
+        "void",
+        "void"
+    ],
+    "EXTENSION": [
+        "void",
+        {
+            "NAME": "MEBT-OX/EB",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KEBT-TB-UN5",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MEBT-OX/MB",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CEBT-HEX",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWEM-R/24",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWEM-R20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWEM-TERRIER",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWEM-AS40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWEM-AM40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWEM-A/50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWEL-SILENT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MES-SS/1441",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KES-AEGIS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MEST-MX/CROW",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CEEC-00-XSP",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CEEC-01-XSP2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KEEP-MALUM",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KEEP-ELIX",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CSS-IA-42S",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CSS-IA-64S",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWEL-EJ11",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWEL-EJ22",
+            "UNLOCK": "DEFEND SOLAR POWER PLANT: IN THE 2ND MISSION SEGMENT, ON THE LOWER LEVEL. THERE IS ONE MORE BURNING ROOM, LOOK FOR IT IN THE BACK LEFT CORNER OF THE ROOM."
+        },
+        {
+            "NAME": "MEA-ESM",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWEM-R/30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWEM-R/36",
+            "UNLOCK": "INFILTRATE NEW FORTRESS: TURN LEFT AT THE WRECKED PLANE & FOLLOW THE RIGHT WALL. THE PART IS IN A SMALL ALCOVE ALONG THE RIGHT SIDE."
+        },
+        {
+            "NAME": "CWEM-R10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWEM-RT16",
+            "UNLOCK": "DEFEND LAWDAS FACTORY: AFTER THE SATELLITE DESTROYS THE MISSILE SILO (NEAR THE MIDDLE OF THE LEVEL) SEARCH THE BOTTOM FOR THIS PART."
+        },
+        {
+            "NAME": "KSS-AA00",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void",
+        "void",
+        "void"
+    ],
+    "BACK_UNIT": [
+        "void",
+        {
+            "NAME": "CWM-S40-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWM-S42/6",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-S60-10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWM-S60/12",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWM-M24/2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-M36-4",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-VM36-4",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWM-DM24/1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWM-MM16/1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-GM14-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-TITAN",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-S50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-S80",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-M30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWR-M/45",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWR-TM/60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-HECTO",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWC-CNG-300",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWC-SLU-64",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWC-GNS-15",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWC-GNL-15",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-IR./20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-LQ/35",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-XP/80",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-XP/75",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-OC/15",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CM-AD-10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MM-AD/20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CRU-A10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CRU-A102",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MRL-MM/009",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MRL-RE/111",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MRL-SS/SPHERE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWX-VM20/1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWX-DM-32-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWX-LANZAR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWX-LIC-10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWX-MX/STRING",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWX-OC-22",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWM-AD-60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-VM48-6",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-GIGAS",
+            "UNLOCK": "DESTROY AI PROTOTYPE: DESTROY 3RD AI AC."
+        },
+        {
+            "NAME": "MWM-M30/3",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-HA30-4",
+            "UNLOCK": "INVESTIGATE SATELLITE: REACH 100% MAP COMPLETION. CLEAR WITHIN 4:30 AFTER THE COUNTDOWN BEGINS."
+        },
+        {
+            "NAME": "CWM-HA40-8",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWM-SM36/1",
+            "UNLOCK": "DEFEND MIRAGE HQ: BESIDE ONE OF THE HELIPORTS."
+        },
+        {
+            "NAME": "MWM-SM30/3",
+            "UNLOCK": "SECURE FORTRESS NK-432: DESTROY 30+ ENEMIES & CLEAR WITH AT LEAST 50% AP."
+        },
+        {
+            "NAME": "MWM-MDM2/1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-S30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWR-TM/30",
+            "UNLOCK": "DISABLE SATELLITE CANNON: DEFEAT THE AC, YOUR CONSORT MUST SURVIVE."
+        },
+        {
+            "NAME": "CWR-COTTOS",
+            "UNLOCK": "ELIMINATE BIO WEAPON: TO GET THIS PART YOU MUST CHOOSE THE EXTRA MISSION FROM 4-3 (YOU WILL NOT RECEIVE THIS PART REPLAYING 4-4 DIRECTLY!) DEFEAT THE FIRST BIO WEAPON AS QUICKLY AS POSSIBLE, THEN BACKTRACK TO THE ELEVATOR AS FAST AS POSSIBLE AND DESTROY THE 2ND BIO WEAPON, THE RECON TEAM MUST ALSO SURVIVE."
+        },
+        {
+            "NAME": "MWR-AR/602",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-M70",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWR-M50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWR-AR/603",
+            "UNLOCK": "DESTROY AI PROTOTYPE: DEFEAT THE 1ST AI AC."
+        },
+        {
+            "NAME": "CWC-CNG-500",
+            "UNLOCK": "DEFEND SOLAR POWER PLANT: CLEAR WITHIN 4:00."
+        },
+        {
+            "NAME": "MWC-IR./50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-LQ/80",
+            "UNLOCK": "DEFEND LAWDAS FACTORY: DESTROY 12+ MTS. CLEAR WITHIN 3:50."
+        },
+        "void",
+        {
+            "NAME": "CWC-SLU-44",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-LIC/40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWC-CNG-220",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-OC/30",
+            "UNLOCK": "SECURE UNEXPLORED REGION: INSIDE THE TRANSPORT WRECKAGE (IN THE CRATER), DESTROY THE BACK DOOR."
+        },
+        {
+            "NAME": "MWC-XP/60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-LQ/15",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CRU-AA01",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MRL-MM/011",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KM-AD30",
+            "UNLOCK": "DESTROY POWER CORE: COMPLETE 2ND MISSION SEGMENT WITHIN 2:40. DEFEAT THE AC/MT."
+        },
+        "void",
+        {
+            "NAME": "CWX-DM-48-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWX-VM40/1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWX-DM-60-1",
+            "UNLOCK": "DEFEND MIRAGE HQ: DEFEAT BOTH ACS."
+        },
+        {
+            "NAME": "CWX-GND-30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWB-MX/WAKE",
+            "UNLOCK": "TEST NEW TECHNOLOGY: AVOID ALL MISSILES. DEFEAT THE MT GROUP WITHIN 1:50. (SIMPLE TRICK. ONCE THE MISSION STARTS, OVERBOOST TO THE FAR PLANE THAT'S A LITTLE ON YOUR LEFT. LAND ON IT AND WAIT, THE MT MISSILES SHOULD COMPLETELY MISS YOU. DESTROY THE MTS AS SOON AS POSSIBLE AND THEN DESTROY THE MASSIVE MT."
+        },
+        {
+            "NAME": "CWB-DC-150",
+            "UNLOCK": "REPEL ASSAULT: CLEAR WITH LESS THAN 3 CONDENSERS DESTROYED."
+        },
+        {
+            "NAME": "CWM-BM60-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWC-LIC/100",
+            "UNLOCK": "ATTACK UNEXPLORED REGION: DEFEAT BOTH UNKNOWN AC/MTS IN THE 1ST SEGMENT OF THE MISSION."
+        },
+        {
+            "NAME": "MWM-HAVM24/2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWM-TR90-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWC-HZ120",
+            "UNLOCK": "HOLD DEFENSE LINE: CLEAR WITHIN 2:40. CLEAR WITH AT LEAST 90% AP."
+        },
+        {
+            "NAME": "CWM-BM80-1",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWC-XP02/75",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void",
+        "void",
+        "void"
+    ],
+    "ARM_UNIT_R": [
+        "void",
+        {
+            "NAME": "CWG-RF-200",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-RF/220",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-RF-160",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-SRF-80",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SRF/60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-MG/350",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-MG-500",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-MG/1000",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-HG-80",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-HG/100",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-BZ-50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-BZ-30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SBZ/24",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-GS-72",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-GS-56",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-GS/54",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWGG-HM-60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWGG-HR-66",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWGG-GR-12",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KP/150",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KP/100",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-XCW/90",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-XCB/75",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KARASAWA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWGG-XCG/20",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWB-SBR0X",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWB-SBR01",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWB-MARS",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "MWG-RF/220H",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "CWG-ARF-180",
+            "UNLOCK": "PROTECT PART TRANSPORT: DESTROY THE TRANSPORT'S BACK DOOR AND STEAL THE PART ONCE IT LANDS. THIS WILL CAUSE A MISSION FAILURE."
+        },
+        {
+            "NAME": "CWG-RF-150",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-RF/300",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-ARF-120",
+            "UNLOCK": "DEFEND NEW FORTRESS: CLEAR WITH AT LEAST 75% AP."
+        },
+        {
+            "NAME": "CWG-SRF-100",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SRFX/70",
+            "UNLOCK": "ELIMINATE ROGUE ENGINEER: CLEAR WITHIN 85 SECONDS."
+        },
+        {
+            "NAME": "CWG-RF-M118",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KARASAWA-MK2",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-SRF-80R",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-SRF-40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SRFE/8",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "CWG-MG-250",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-MG/700H",
+            "UNLOCK": "QUALIFICATION EXAM: DESTROY BOTH ACS."
+        },
+        "void",
+        {
+            "NAME": "CWG-MG-300",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-MG/FINGER",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-HG-150",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-MG/ARK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-HGB-90",
+            "UNLOCK": "DATA RETRIEVAL: CLEAR WITHIN 2:40."
+        },
+        "void",
+        {
+            "NAME": "CWG-HGB-80",
+            "UNLOCK": "DISPERSE GATHERING: DESTROY THE MTS QUICKLY TO BE ALLOWED ACCESS THROUGH THE GATE. FINISH OVERALL IN LESS THAN 1:25."
+        },
+        {
+            "NAME": "CWG-HG-200H",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "CWG-GS-48",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-GS/72LE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-GS/80",
+            "UNLOCK": "SECURE FORTRESS NK-432: FIND THE ROOM FULL OF BOXES. REMEMBER THIS FROM AC:MOA? DESTROY ONLY THE BOXES THAT HAVE NO TRIANGULAR MARKINGS. IF YOU HIT ANY BOXES WITH THE RED TRIANGULAR MARKINGS, YOU WILL DESTROY THE HIDDEN PART. BE CAREFUL! THE PART IS IN A BOX AT THE FAR BACK RIGHT CORNER OF THE ROOM UNDERNEATH A STACK OF NORMAL CRATES."
+        },
+        {
+            "NAME": "CWG-BZ-80",
+            "UNLOCK": "PROTECT POWER PLANT: CLEAR WITHOUT DESTROYING A CAPACITOR."
+        },
+        {
+            "NAME": "CWG-BZ-30R",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SBZ/48",
+            "UNLOCK": "INFILTRATE NEW FORTRESS: CLEAR THE STEALTH SEGMENT WITHIN 0:50, UNDETECTED AND WITHOUT DESTROYING ANY HELICOPTERS."
+        },
+        "void",
+        {
+            "NAME": "CWG-BZ-25",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SBZ/36",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "CWGG-HM-80",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "MWGG-XCG/20E",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWGG-HLR-ALX",
+            "UNLOCK": "DESTROY AI PROTOTYPE: CLEAR WITH AT LEAST 40% AP."
+        },
+        {
+            "NAME": "KWG-HZL80",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-FTL600",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWGG-GRS-30",
+            "UNLOCK": "TAKEOVER NEW FORTRESS: DESTROY ALL OF THE HEAT PIPES."
+        },
+        {
+            "NAME": "MWGG-XCG/40E",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWGG-HG-10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KP/80",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KP/120",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-DKP/90",
+            "UNLOCK": "PROTECT PART TRANSPORT: CLEAR WITH AT LEAST 60% TRANSPORT AP REMAINING."
+        },
+        {
+            "NAME": "MWG-KP/180",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-DKP/100",
+            "UNLOCK": "DESTROY ELITE UNIT: CLEAR WITHIN 80 SECONDS."
+        },
+        {
+            "NAME": "MWG-XCY/50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-XCP/150",
+            "UNLOCK": "POWER PLANT EMERGENCY: CLEAR WITHIN 3:50."
+        },
+        {
+            "NAME": "MWG-XCG/10",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-KP/200",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "MWG-XCD/100",
+            "UNLOCK": "DEFEND LAWDAS FACTORY: CLEAR WITH AT LEAST 50% AP."
+        },
+        {
+            "NAME": "MWG-XCD/70",
+            "UNLOCK": "HOLD DEFENSE LINE: ALL ALLIES SURVIVE."
+        },
+        {
+            "NAME": "CWG-XCMK/70",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-HGB/108",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-MG/800",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-XCW/PK",
+            "UNLOCK": "DEFEND VARGAS AIRPORT: DESTROY 25 OR MORE MISSILES WITH NO CONSORT. IT HELPS TO STAND ON THE CONTROL TOWER."
+        },
+        {
+            "NAME": "KWG-HZL60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-HG/111",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "KWB-SBR02/RS",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWB-SBR44",
+            "UNLOCK": "ELIMINATE BIO WEAPON: SEARCH THE FIRST ROOM FOR CRACKED WALLS. ONE OF THE TWO CRACKS COVERS A PASSAGE AND ROOM WITH THIS PART."
+        },
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void",
+        "void"
+    ],
+    "ARM_UNIT_L": [
+        "void",
+        {
+            "NAME": "CLB-LS-1551",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLB-LS/003",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLB-LS-2551",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KLB-TLS/SOL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLB-MOONLIGHT",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-HZL50",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-HZL30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-FTL450",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CES-ES-0001",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CES-ES-0101",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MES-ES/011",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KES-ES/MIRROR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-ARFL150",
+            "UNLOCK": "ELIMINATE RIOTERS: CLEAR WITHIN 2:30."
+        },
+        {
+            "NAME": "MWG-RFL/150",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-SRFL/70",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-SRFL-50",
+            "UNLOCK": "DEFEND NEW FORTRESS: CLEAR THE FIRST HALF WITHIN 1:30."
+        },
+        {
+            "NAME": "MWG-MGL/300",
+            "UNLOCK": "RECAPTURE SECTOR 513: CLEAR WITH NO ALLIES DESTROYED."
+        },
+        {
+            "NAME": "CWG-MGL-150",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-HGL-100",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-HGBL-90",
+            "UNLOCK": "PROTECT PART TRANSPORT: DESTROY 37+ ENEMIES."
+        },
+        {
+            "NAME": "MWG-GSL/72",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-GSL-56",
+            "UNLOCK": "DESTROY CARGO TRANSPORT: CLEAR WITHIN 0:40."
+        },
+        {
+            "NAME": "CWG-BZL-40",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CWG-SBZL-20",
+            "UNLOCK": "POWER PLANT EMERGENCY: DESTROY ALL ENEMIES. CLEAR WITH AT LEAST 60% AP."
+        },
+        {
+            "NAME": "MWGG-HML-18",
+            "UNLOCK": "DATA RETRIEVAL: CLEAR WITH AT LEAST 60% AP."
+        },
+        {
+            "NAME": "CWGG-GRSL-20",
+            "UNLOCK": "PROTECT PART TRANSPORT: INSIDE LEFT WAREHOUSE, USE THE DOOR."
+        },
+        {
+            "NAME": "MWGG-HRL-32",
+            "UNLOCK": "SEARCH VILIUS LABORATORY: DESTROY ALL ENEMIES."
+        },
+        {
+            "NAME": "MWGG-HNRL-100",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KPL/100",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-KPL/150",
+            "UNLOCK": "SEARCH VILIUS LABORATORY: GO STRAIGHT AS FAR AS POSSIBLE, THE PART IS AT THE BOTTOM OF THE PIT THERE."
+        },
+        {
+            "NAME": "MWG-XCWL/60",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MWG-XCDL/80",
+            "UNLOCK": "DEFEND SOLAR POWER PLANT: CLEAR WITH ALL ENEMIES DEFEATED AND NO SPECIAL DEDUCTIONS FOR DAMAGE."
+        },
+        {
+            "NAME": "KWG-HZL30A",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-NHZL30",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KWG-NHZL60",
+            "UNLOCK": "INVESTIGATE SATELLITE: AFTER UNLOCKING THE TWO DOORS, GO INTO THE LEFT ONE & HIT THE SWITCH AT THE END. GO BACK INTO THE OTHER DOOR, DESTROY THE FENCE & SHOOT THE GRATE IN THE NEXT ROOM'S CEILING. TAKE THE PASSAGE TO THE ROOM WITH THIS PART."
+        },
+        {
+            "NAME": "KWG-HZL30S",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "CLB-LS-3771",
+            "UNLOCK": "TAKEOVER NEW FORTRESS: TO GET THIS PART YOU MUST CHOOSE THE EXTRA MISSION FROM 2-6(YOU WILL NOT RECIEVE THIS PART REPLAYING 2-7 DIRECTLY!). CLEAR WITH YOUR CONSORT ALIVE AND AT LEAST 70% AP."
+        },
+        {
+            "NAME": "MLB-HALBERD",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MES-ES/015",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KSS-SS/WALL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "KSS-SS/707A",
+            "UNLOCK": "DESTROY AI PROTOTYPE: VISIBLY BEHIND A FENCE NEAR THE BEGINNING."
+        },
+        {
+            "NAME": "KSS-SS/863B",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "MLB-T/100",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        "void",
+        "void",
+        "void"
+    ],
+    "OPTIONAL": [
+        "void",
+        {
+            "NAME": "OP-S-SCR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-E/SCR",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-S/STAB",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-E/CND",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-ECMP",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-L-AXL",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-LFCS++",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-L/BRK",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-L/TRN",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-E-LAI",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-E-LAP",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-SP/E++",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-E/RTE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-TQ/CE",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-M/AW",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-INTENSIFY",
+            "UNLOCK": "BUY"
+        },
+        "void",
+        {
+            "NAME": "OP-R/INIA",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-CLPU",
+            "UNLOCK": "BUY"
+        },
+        {
+            "NAME": "OP-EO-LAP",
+            "UNLOCK": "INVESTIGATE SATELLITE: REACH 100% MAP COMPLETION USING A HEAD WITH NO MAP MEMORY."
+        },
+        {
+            "NAME": "OP-TQ/ESE",
+            "UNLOCK": "POWER PLANT EMERGENCY: GO TO THE ROOM NEAREST THE IMMOBILE DOOR. SHOOT THE GRATING IN THE FAR RIGHT CORNER CEILING. FOLLOW THE PATH TO A ROOM. IGNORE THE BOXES, AND EXIT THE ROOM. THE PART IS ON THE GROUND JUST OUTSIDE THE DOOR."
+        },
+        "void",
+        "void"
+    ]
+}
